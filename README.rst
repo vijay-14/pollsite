@@ -1,4 +1,15 @@
 =====
+Installing Dependencies
+=====
+
+To use the polls app we need to install few dependencies first.
+
+Quick start
+-----------
+
+Install all the dependencies from the requirements.txt file.
+
+=====
 Polls
 =====
 
